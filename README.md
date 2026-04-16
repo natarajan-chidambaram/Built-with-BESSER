@@ -17,6 +17,20 @@ A Customer Relationship Management system generated with BESSER, showcasing how 
 | v1 — Raw Generated | Initial CRM generated directly from BESSER models | [Repository](https://github.com/ArmenSl/NexaCRM-BESSER/tree/master) |
 | v2 — Enhanced | Extended with authentication, AI lead scoring, email assistant, and more | [Repository](https://github.com/ArmenSl/NexaCRM-BESSER/tree/v2_modified) |
 
+### Ask Safely
+A BAF agent that helps users safely query Knowledge Graphs (KGs) while preventing potential disclosure of sensitive data to large language models (LLMs).
+
+| Version | Description | Link |
+|---------|-------------|------|
+| v1 — safe KG querying | Initial agent generated using the [BESSER Agentic Framework (BAF)](https://github.com/BESSER-PEARL/BESSER-Agentic-Framework) | [Repository](https://github.com/BESSER-PEARL/BESSER-Ask-Safely) |
+
+### Publication Repository
+A web application for managing research publications, supporting BibTeX import, citation retrieval via OpenAlex, and publication analytics.
+
+| Version | Description | Link |
+|---------|-------------|------|
+| v1 — Publication Repository | Application generated with BESSER for managing research publications | [Repository](https://github.com/maurodlt/PublicationRepository) |
+
 ---
 
 ## How to Add Your Tool
